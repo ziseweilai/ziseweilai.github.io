@@ -4,7 +4,7 @@
 baseurl:
 url: https://ziseweilai.github.io/
 date_format: "ordinal"
-title: 博客
+title: 紫色未来的博客
 subtitle: "公众号：孔孟圣人"
 description: "位亚强的个人博客，公众号：孔孟圣人"
 keywords: 博客, Yaqiang Wei, weiyaqiang, 空间机器人爱好者
@@ -51,11 +51,11 @@ email: 1184812731@qq.com
 navs:
   -
     href: /
-    label: 首页
+    label: Home #首页
 
   -
     href: /categories/
-    label: 分类
+    label: Category #分类
 
 #   -
 #     href: /archives/
@@ -67,15 +67,15 @@ navs:
 
   -
     href: /wiki/
-    label: 维基
+    label: Wiki #维基
 
   -
     href: /links/
-    label: 链接
+    label: Link #链接
 
   -
     href: /about/
-    label: 关于
+    label: About #关于
 
 # ---------------- #
 #       RSS        #
