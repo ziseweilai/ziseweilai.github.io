@@ -1,13 +1,17 @@
 - name: Software Engineer Keywords
   keywords:
-      - Java
-      - C++
+#      - Java
+#      - C++
       - Python
 
-- name: Windows Developer Keywords
+#- name: Windows Developer Keywords
+#  keywords:
+#      - Win32 SDK
+#      - DuiLib
+#      - WTL
+#      - COM
+#      - WinDbg
+- name: search Interest
   keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg
+      - Space robot
+      - C++
