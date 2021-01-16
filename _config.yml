@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://ziseweilai.github.io/
+url: https://ziseweilai.github.io
 date_format: "ordinal"
 title: Purple Future
 subtitle: "公众号：孔孟圣人"
