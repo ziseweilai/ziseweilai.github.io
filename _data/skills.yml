@@ -3,6 +3,7 @@
 #      - Java
 #      - C++
       - Python
+      - C++
 
 #- name: Windows Developer Keywords
 #  keywords:
@@ -14,4 +15,5 @@
 - name: search Interest
   keywords:
       - Space robot
-      - C++
+      - Robot dynamic
+      - Path planning
