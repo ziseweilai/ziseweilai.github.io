@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2021年1月17日对博士生生活的感想
-categories: reflection
+categories: Reflection
 description: 2021.1.17的感想
 keywords: 博士生活、感想
 ---
