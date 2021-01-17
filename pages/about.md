@@ -44,8 +44,8 @@ permalink: /about/
 {% endif %}
 </ul>
 <div style="text-align:center"><img src ="https://raw.githubusercontent.com/ziseweilai/ziseweilai.github.io/master/images/pages/gongzhonghao.jpg" /></div>-->
-- Github：[@ziseweilai](https://github.com/ziseweilai)
-- Blog:[@ziseweilai](https://ziseweilai.github.io)
+- Github： [@ziseweilai](https://github.com/ziseweilai)
+- Blog： [@ziseweilai](https://ziseweilai.github.io)
 - 微信公众号：孔仁孟义（krmy2020）
 <div align="center"><img width="192px" height="192px" src="https://github.com/ziseweilai/ziseweilai.github.io/raw/master/images/posts/gongzhonghao.jpg"/></div>
 
