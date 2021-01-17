@@ -29,14 +29,14 @@ permalink: /about/
 
 ## 联系
 
-<ul>
+<!--<ul>
 {% for website in site.data.social %}
 <li>{{website.sitename }}：<a href="{{ website.url }}" target="_blank">@{{ website.name }}</a></li>
 {% endfor %}
 {% if site.url contains 'https://ziseweilai.github.io/' %}
 {% endif %}
 </ul>
-<!--<li>
+<li>
 微信公众号：<br />
 <img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ assets_base_url }}/assets/images/gongzhonghao.jpg" alt="孔孟圣人" />
 <img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ assets_base_url }}/assets/images/gongzhonghao.jpg" alt="孔孟圣人" />
@@ -44,7 +44,8 @@ permalink: /about/
 {% endif %}
 </ul>
 <div style="text-align:center"><img src ="https://raw.githubusercontent.com/ziseweilai/ziseweilai.github.io/master/images/pages/gongzhonghao.jpg" /></div>-->
-  
+- Github：[@ziseweilai](https://github.com/ziseweilai)
+- Blog:[@ziseweilai](https://ziseweilai.github.io)
 - 微信公众号：孔仁孟义（krmy2020）
 <div align="center"><img width="192px" height="192px" src="https://github.com/ziseweilai/ziseweilai.github.io/raw/master/images/posts/gongzhonghao.jpg"/></div>
 
