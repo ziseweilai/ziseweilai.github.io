@@ -41,7 +41,7 @@ permalink: /about/
 </li>
 {% endif %}-->
 </ul>
-<div style="text-align:center"><img src ="https://raw.githubusercontent.com/feedliu/feedliu.github.io/master/images/pages/qrcode.bmp" /></div>
+<div style="text-align:center"><img src ="https://raw.githubusercontent.com/ziseweilai/ziseweilai.github.io/master/images/pages/gongzhonghao.jpg" /></div>
 
 
 ## Skill Keywords
