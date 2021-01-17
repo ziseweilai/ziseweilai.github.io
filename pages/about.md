@@ -36,7 +36,8 @@ permalink: /about/
 {% if site.url contains 'https://ziseweilai.github.io/' %}
 <li>
 微信公众号：<br />
-<img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ assets_base_url }}/assets/images/gongzhonghao.jpg" alt="孔孟圣人" />
+<!--<img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ assets_base_url }}/assets/images/gongzhonghao.jpg" alt="孔孟圣人" />-->
+  <div style="text-align:center"><img src ="https://raw.githubusercontent.com/ziseweilai/ziseweilai.github.io/master/images/gongzhonghao.jpg" /></div>
 </li>
 {% endif %}
 </ul>
