@@ -318,7 +318,7 @@ $F = m \cdot a$
 这时候你又想到，既然 PID 和动力学都可以计算让机器人运动所需的力，只是动力学稍微有一些不准，那么有没有可能把它们结合在一起，先用动力学算一个基本准确的力矩，然后用 PID 消除不准确性造成的微小误差？
 
 <p align="center">
-  <img width="500" src="https://github.com/ziseweilai/ziseweilai.github.io/raw/master/images/posts/2021-01-20-image-robot-intro-learning/Pics/FeedforwardPID.jpg"/>
+  <img width="500" src="https://github.com/ziseweilai/ziseweilai.github.io/raw/master/images/posts/2021-01-20-image-robot-intro-learning/FeedforwardPID.jpg"/>
 </p>
 
 是的，于是你发现了基于动力学前馈的 PID 控制算法。
