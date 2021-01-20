@@ -22,7 +22,7 @@ permalink: /about/
 暂无
 
 ## 专利
-暂无
+[[1]赵国贞,梁卫国,赵晨德,杨智文,位亚强. 一种基于有导师学习神经网络算法的导水裂隙带预测方法[P]. 山西省：CN111274736A,2020-06-12.](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2020&filename=CN111274736A&v=ewD0FiOt%25mmd2FEqmdPIu%25mmd2BnVjo1pUJZZnCY9u2xu99idB3%25mmd2FPvFfiZwMibAVtSVjaBDIMm)
 
 ## 科研项目
 暂无
