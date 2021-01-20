@@ -81,7 +81,7 @@ keywords: Robot，learning
 当然，先修知识会随着研究深度的变换而不同，尤其是数学，数学就像是写轮眼，看同一个石碑，不同层次的「写轮眼」所看到的内容也完全不同。
 
 <p align="center">
-  <img width="800" src="./Pics/Sharingan.jpg"/>
+  <img width="800" src="https://github.com/ziseweilai/ziseweilai.github.io/raw/master/images/posts/2021-01-20-image-robot-intro-learning/Sharingan.jpg"/>
 </p>
 
 但是，由于机器人学涉及面广，不同方向所需要的基础知识也完全不同，如果一开始就陷入「先修知识」的泥潭中，可能就得不偿失了。
@@ -103,7 +103,7 @@ keywords: Robot，learning
 7. **控制理论**：机器人学是离不开控制的，但是机器人学教材一般不会过多介绍这块。当然，目前大多数工业机器人都还是使用比较简单的算法，但是，作为研究者，有必要了解一些基本的控制理论，例如 PID、状态方程、可观性、可控性、李雅普诺夫、最优控制、一点点非线性控制与一点点智能控制等。这块我基本是在学校上课，没有太好的公开课推荐，可以先试试学堂在线上的课程。
 
 <p align="center">
-  <img width="500" src="./Pics/IngenieriaElectrica.jpg"/>
+  <img width="500" src="https://github.com/ziseweilai/ziseweilai.github.io/raw/master/images/posts/2021-01-20-image-robot-intro-learning/IngenieriaElectrica.jpg"/>
 </p>
 
 8. **数字电路与模拟电路**：机器人是一门实践科学，只有当你把你推导的公式写成代码、并最终让实际机器人按照你的想法动起来的时候，才说明你掌握了相关知识。数电模电的知识可以让你对逻辑电路有个基本了解，不至于后面连为什么电机前面要加一个驱动器都不知道；同时，在身边没有实际机器人的情况下，自己搭个小电路做一些控制实验也是非常方便的。这块知识可以随便找本教材看看，例如我当时上的是唐庆玉老师的教材。
@@ -121,7 +121,7 @@ keywords: Robot，learning
 对于入门部分，实际上就是了解如何让一个工业机器人动起来。这方面其实研究已经非常成熟了，大家看上个世纪的教材就行，个人推荐的是 John Craig 的教材 《Introduction to Robotics: Mechanics and Control》<sup>[1]</sup>，在 [Youtube](https://www.youtube.com/watch?v=0yD3uBshJB0&list=PL64324A3B147B5578) 和[网易公开课](http://open.163.com/special/opencourse/robotics.html)都可以找到斯坦福 Oussama Khatib 大神的视频，基本与 Craig 的教材内容相匹配。
 
 <p align="center">
-  <img width="300" src="./Pics/CraigBook.jpg"/>
+  <img width="300" src="https://github.com/ziseweilai/ziseweilai.github.io/raw/master/images/posts/2021-01-20-image-robot-intro-learning/CraigBook.jpg"/>
 </p>
 
 建议从 Craig 的教材开始就看英文版本，Google 一下，很容易找到 PDF 版本。作为一本入门教材，Craig 的教材是相当深入浅出的，配合着 Khatib 的视频，可以快速掌握机器人学的基础。
@@ -149,7 +149,7 @@ keywords: Robot，learning
 ### 3.2 运动学
 
 <p align="center">
-  <img width="600" src="./Pics/RobotKinematics.jpg"/>
+  <img width="600" src="https://github.com/ziseweilai/ziseweilai.github.io/raw/master/images/posts/2021-01-20-image-robot-intro-learning/RobotKinematics.jpg"/>
 </p>
 
 对于机器人来说，一个基本工作就是计算运动学：
@@ -166,7 +166,7 @@ keywords: Robot，learning
 这不重要，你只要知道它是帮你确定两个连杆之间的相对关系就行。不妨掌握 Craig 书上的那种就行（Wikipedia上称为 Modified DH)：
 
 <p align="center">
-  <img width="500" src="./Pics/ModifiedDH.jpg"/>
+  <img width="500" src="https://github.com/ziseweilai/ziseweilai.github.io/raw/master/images/posts/2021-01-20-image-robot-intro-learning/ModifiedDH.jpg"/>
 </p>
 
 1）建立坐标系：
@@ -226,7 +226,7 @@ $\dot{x}=J\cdot \dot{q}$
 这时候，你有了雅可比矩阵，你就会发现，你知道怎么通过调节角度来控制末端运动了。这时候我们再回头看运动学逆解的问题。你会发现：「让机器人末端朝着目标位姿运动不就可以了？」。
 
 <p align="center">
-  <img width="500" src="./Pics/JacobianIK.jpg"/>
+  <img width="500" src="https://github.com/ziseweilai/ziseweilai.github.io/raw/master/images/posts/2021-01-20-image-robot-intro-learning/JacobianIK.jpg"/>
 </p>
 
 是的，这就是机器人运动学的数值计算方式，你可以利用这个方法写一个机器人运动学的通用求解算法。具体可以看我在知乎上的回答 [MATLAB机器人工具箱中机器人逆解是如何求出来的](https://www.zhihu.com/question/41673569/answer/129670927)。
@@ -248,7 +248,7 @@ $\dot{x}=J\cdot \dot{q}$
 我相信，80% 的小伙伴是在这一章放弃的。
 
 <p align="center">
-  <img width="500" src="./Pics/NewtonEulerDynamics.jpg"/>
+  <img width="500" src="https://github.com/ziseweilai/ziseweilai.github.io/raw/master/images/posts/2021-01-20-image-robot-intro-learning/NewtonEulerDynamics.jpg"/>
 </p>
 
 对于多轴机器人的动力学，不论是采用牛顿欧拉还是拉格朗日法，都会**显得**异常复杂。再加上如果之前没学好理论力学，那么基本上是举步维艰了。
@@ -274,7 +274,7 @@ $F = m \cdot a$
 要让一个东西动起来，就要给它施力。
 
 <p align="center">
-  <img width="800" src="./Pics/Slider.jpg"/>
+  <img width="800" src="https://github.com/ziseweilai/ziseweilai.github.io/raw/master/images/posts/2021-01-20-image-robot-intro-learning/Slider.jpg"/>
 </p>
 
 如果我们给定一个滑块的运动轨迹 $s(t)$，我们就可以计算出它整个轨迹的加速度 $\ddot{s}(t)$，进而计算出让滑块按照我们设想运动所需的力 $F(t) = m \cdot \ddot{s}(t)$。
@@ -282,7 +282,7 @@ $F = m \cdot a$
 换句话说，我们可以通过动力学计算出让机器人运动所需的每个关节力矩。
 
 <p align="center">
-  <img width="500" src="./Pics/DCMotor.jpg"/>
+  <img width="500" src="https://github.com/ziseweilai/ziseweilai.github.io/raw/master/images/posts/2021-01-20-image-robot-intro-learning/DCMotor.jpg"/>
 </p>
 
 而关节力矩，可以通过电机提供，对于直流电机，输出力矩与电流成正比。
@@ -302,13 +302,13 @@ $F = m \cdot a$
 在这里，建议有条件的小伙伴用单片机弄一个单轴伺服控制系统，有伺服电机（你可以控制电流、力矩、或者 PWM 占空比；步进电机、舵机就算了）、有编码器（可以反馈电机的角度）、有驱动器（能将数字指令转换成电机控制信号）、有控制器（STM32等单片机，可以给驱动器提供控制指令）。顺便可以了解一些通讯、中断、实时性的内容。
 
 <p align="center">
-  <img width="500" src="./Pics/StepAndTraj.jpg"/>
+  <img width="500" src="https://github.com/ziseweilai/ziseweilai.github.io/raw/master/images/posts/2021-01-20-image-robot-intro-learning/StepAndTraj.jpg"/>
 </p>
 
 但是，感觉好像还是有什么不对，机器人运动好像是有加减速过程（右）的，而非一次阶跃（左）。
 
 <p align="center">
-  <img width="500" src="./Pics/TrajPlanning.jpg"/>
+  <img width="500" src="https://github.com/ziseweilai/ziseweilai.github.io/raw/master/images/posts/2021-01-20-image-robot-intro-learning/TrajPlanning.jpg"/>
 </p>
 
 这就是轨迹规划（Trajectory Planning），给定一些轨迹点，利用不同的函数来拟合这些轨迹。
@@ -316,7 +316,7 @@ $F = m \cdot a$
 这时候你又想到，既然 PID 和动力学都可以计算让机器人运动所需的力，只是动力学稍微有一些不准，那么有没有可能把它们结合在一起，先用动力学算一个基本准确的力矩，然后用 PID 消除不准确性造成的微小误差？
 
 <p align="center">
-  <img width="500" src="./Pics/FeedforwardPID.jpg"/>
+  <img width="500" src="https://github.com/ziseweilai/ziseweilai.github.io/raw/master/images/posts/2021-01-20-image-robot-intro-learning/Pics/FeedforwardPID.jpg"/>
 </p>
 
 是的，于是你发现了基于动力学前馈的 PID 控制算法。
@@ -352,13 +352,13 @@ Craig 书上剩下的其他一些部分，可以大概浏览一下，因为有�
 - Perception：这门课质量非常不错，基本是介绍相机模型、多视几何之类的内容。这方面内容可以对大家未来从事 SLAM、3D 视觉、标定等方面的研究非常有帮助。学完之后，大家就可以做出类似[《AR原理演示》](https://mp.weixin.qq.com/s?__biz=MzA5MDE2MjQ0OQ==&mid=2652786307&idx=1&sn=e71bbca67c7fa69081e863b62b9fd5b4#rd)文章中的效果了：
 
 <p align="center">
-  <img width="400" src="./Pics/AR.gif"/>
+  <img width="400" src="https://github.com/ziseweilai/ziseweilai.github.io/raw/master/images/posts/2021-01-20-image-robot-intro-learning/AR.gif"/>
 </p>
 
 - Estimation and Learning：这门课从高斯分布开始，介绍了 Kalman Filter、Particle Filter 等在机器人状态估计中非常有用的工具。而且，这门课的大作业会让你从零开始编写 2D 地图重建的程序，你可以知道如何利用激光传感器信息获得下面这样的 2D 地图。
 
 <p align="center">
-  <img width="500" src="./Pics/Mapping.jpg"/>
+  <img width="500" src="https://github.com/ziseweilai/ziseweilai.github.io/raw/master/images/posts/2021-01-20-image-robot-intro-learning/Mapping.jpg"/>
 </p>
 
 ### 4.3 ROS
@@ -428,7 +428,7 @@ Craig 书上剩下的其他一些部分，可以大概浏览一下，因为有�
 现在你能把单独的一个机器人控制好了，但你发现，机器人一旦跟环境发生接触，只用机器人模型就不够了。你需要对环境进行建模。但是，环境是无法精确建模的。于是，你开始学各种**力控**、**阻抗控制**之类的内容。相应地、你就可以实现一些所谓协作机器人的功能了:[《听说现在协作机器人很火，所以我也做了1/7个》](https://mp.weixin.qq.com/s/hkZjZItqyfwG6k0cwRm9kA)
 
 <p align="center">
-  <img width="500" src="./Pics/CollisionDetection.gif"/>
+  <img width="500" src="https://github.com/ziseweilai/ziseweilai.github.io/raw/master/images/posts/2021-01-20-image-robot-intro-learning/CollisionDetection.gif"/>
 </p>
 
 ### 5.4 运动规划
@@ -442,7 +442,7 @@ Craig 书上剩下的其他一些部分，可以大概浏览一下，因为有�
 运动规划的大致介绍可以看我以前写过的文章：[《运动规划 | 简介篇》](https://mp.weixin.qq.com/s/_fE760XxFlvrkzYEpslYvA)。
 
 <p align="center">
-  <img width="500" src="./Pics/PlanningBooks.jpg"/>
+  <img width="500" src="https://github.com/ziseweilai/ziseweilai.github.io/raw/master/images/posts/2021-01-20-image-robot-intro-learning/PlanningBooks.jpg"/>
 </p>
 
 当然，更详细的介绍最好看教材，如《Principles of Robot Motion》<sup>[4]</sup> 和《Planning Algorithms》<sup>[5]</sup> 都是不错的教材。
@@ -456,13 +456,13 @@ Craig 书上剩下的其他一些部分，可以大概浏览一下，因为有�
 （2）当我们的规划涉及到一些约束，如让机器人末端保持水平（拿着一杯水）。一种方法是用传统的方法。如 OpenRave 里的一个实现：[ConstraintPlanning](http://openrave.org/docs/0.8.2/openravepy/examples.constraintplanning/)， 在关节空间随机采样一个点，然后投影到最近的任务空间上，之后用 Jacobian 迭代的方式将随机点连接到 RRT 树上。
 
 <p align="center">
-  <img width="300" src="./Pics/TaskConstrainedRRT.jpg"/>
+  <img width="300" src="https://github.com/ziseweilai/ziseweilai.github.io/raw/master/images/posts/2021-01-20-image-robot-intro-learning/TaskConstrainedRRT.jpg"/>
 </p>
 
 但是，我们可以从另一个角度看问题。机器人的末端姿态就是一个 SE(3) 李群。保持末端水平，可以认为是一个 R3 空间与 SO(2) 空间的半直积，这也是一个李群。于是，我们可以直接在李群内或者 Tangent Space 上跑一个 RRT，例如 Tangent Bundle RRT<sup>[6]</sup> 与 AtlasRRT<sup>[7]</sup>
 
 <p align="center">
-  <img width="500" src="./Pics/AtlasRRT.jpg"/>
+  <img width="500" src="https://github.com/ziseweilai/ziseweilai.github.io/raw/master/images/posts/2021-01-20-image-robot-intro-learning/AtlasRRT.jpg"/>
 </p>
 
 ### 5.5 机器学习
@@ -512,7 +512,7 @@ Craig 书上剩下的其他一些部分，可以大概浏览一下，因为有�
 ## 六. 勇者斗恶龙
 
 <p align="center">
-  <img width="500" src="./Pics/TheBrave.jpg"/>
+  <img width="500" src="https://github.com/ziseweilai/ziseweilai.github.io/raw/master/images/posts/2021-01-20-image-robot-intro-learning/TheBrave.jpg"/>
 </p>
 
 自此，你已经知道了如何让一个机器人动起来，并且深入掌握了研究机器人某一领域的知识。然后，你就像一个刚刚斩杀一只史莱姆的勇者一般，举着宝剑，时刻准备着将宝剑刺入恶龙的胸口。
@@ -528,19 +528,19 @@ Craig 书上剩下的其他一些部分，可以大概浏览一下，因为有�
 然而，我想说的是，就机器人这块，只要工农业这类体力劳动没有实现完全的自动化，恶龙就存在：
 
 <p align="center">
-  <img width="500" src="./Pics/Teaching.gif"/>
+  <img width="500" src="https://github.com/ziseweilai/ziseweilai.github.io/raw/master/images/posts/2021-01-20-image-robot-intro-learning/Teaching.gif"/>
 </p>
 
 当你看到绝大多数机器人还是通过上面这样的方式，一点点示教出来的，你会有强烈的感觉：「这就是恶龙！」
 
 <p align="center">
-  <img width="500" src="./Pics/TeachingDevice.jpg"/>
+  <img width="500" src="https://github.com/ziseweilai/ziseweilai.github.io/raw/master/images/posts/2021-01-20-image-robot-intro-learning/TeachingDevice.jpg"/>
 </p>
 
 当你看到世界上那么多机器人公司，有着各自形形色色、互不兼容的编程语言、示教器的时候，你会有强烈的感觉：「这就是恶龙！」
 
 <p align="center">
-  <img width="500" src="./Pics/ChineseFactory.jpg"/>
+  <img width="500" src="https://github.com/ziseweilai/ziseweilai.github.io/raw/master/images/posts/2021-01-20-image-robot-intro-learning/ChineseFactory.jpg"/>
 </p>
 
 当你看到还有非常多与你我同龄的人在工厂里做着重复、枯燥的工作的时候，你会有强烈的感觉：「这就是恶龙！」
