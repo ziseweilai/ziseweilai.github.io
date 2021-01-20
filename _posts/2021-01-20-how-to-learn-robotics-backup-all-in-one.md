@@ -55,7 +55,7 @@ keywords: Robot，learning
 从我这几年的学习经历上看，我是能理解这一现象的。博士刚入学的时候，我接下了师兄的 SmartPal 机器人。靠着师兄的「祖传代码」，也曾狐假虎威地在外宾面前做过一些演示：
 
 <p align="center">
-  <img width="500" src="./Pics/SmartPalAndMe.jpg"/>
+  <img width="500" src="https://github.com/ziseweilai/ziseweilai.github.io/raw/master/images/posts/2021-01-20-image-robot-intro-learning/Pics/SmartPalAndMe.jpg"/>
 </p>
 
 但是，当我后来真正开始看这些「祖传代码」的时候，我发现实际发给机器人的只有几个关节**位置**点而已。
