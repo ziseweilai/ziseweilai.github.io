@@ -6,7 +6,9 @@ description: 2021.01.20机器人学习之路
 keywords: Robot，learning
 ---
 今天上午在网上闲逛，找到了一个很好的博客，在此放到自己blog里面，与大家共享
+
 原文链接为：[How to Learn Robotics](https://www.sunmengxin.cn/how-to-learn-robotics/SUMMARY/)或[gitbook](https://qiu6401.gitbook.io/how-to-learn-robotics/)
+
 相关文档：杨硕大佬的[机器人工程师学习计划](https://zhuanlan.zhihu.com/p/22266788)
 ---
 # 开源机器人学学习指南 <!-- omit in toc -->
@@ -578,5 +580,5 @@ Craig 书上剩下的其他一些部分，可以大概浏览一下，因为有�
 [8] Sutton, Richard S., and Andrew G. Barto. Introduction to reinforcement learning. Vol. 135. Cambridge: MIT press, 1998.
 
 
-我的微信公众号：孔仁孟义（）
+## 我的微信公众号：孔仁孟义（）
 <div align="center"><img width="192px" height="192px" src="https://github.com/ziseweilai/ziseweilai.github.io/raw/master/images/posts/gongzhonghao.jpg"/></div>
