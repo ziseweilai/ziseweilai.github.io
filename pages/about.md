@@ -36,7 +36,7 @@ permalink: /about/
 {% if site.url contains 'ziseweilai.github.io/' %}
 <li>
 微信公众号：<br />
-<img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ assets_base_url }}/assets/images/gongzhonghao.jpg" alt="孔仁孟义" />
+<img style="height:192px;width:192px;border:1px solid lightgrey;" src="./assets/images/gongzhonghao.jpg" alt="孔仁孟义" />
 </li>
 {% endif %}
 </ul>
