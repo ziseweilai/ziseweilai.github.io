@@ -581,5 +581,5 @@ Craig 书上剩下的其他一些部分，可以大概浏览一下，因为有�
 [8] Sutton, Richard S., and Andrew G. Barto. Introduction to reinforcement learning. Vol. 135. Cambridge: MIT press, 1998.
 
 
-## 我的微信公众号：孔仁孟义（）
+## 我的微信公众号：孔仁孟义（krmy）
 <div align="center"><img width="192px" height="192px" src="https://github.com/ziseweilai/ziseweilai.github.io/raw/master/images/posts/gongzhonghao.jpg"/></div>
