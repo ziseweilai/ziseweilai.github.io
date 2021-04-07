@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 抗美援朝烈士陵园参观感受
-categories: Refection
+categories: Reflection
 description: 抗美援朝烈士永垂不朽
 keywords: 旅游；英烈；陵园
 ---
