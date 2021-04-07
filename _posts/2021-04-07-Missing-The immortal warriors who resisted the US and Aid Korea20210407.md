@@ -17,22 +17,22 @@ keywords: 旅游；英烈；陵园
 今天沈阳天气很好，作为来到沈阳之后的第一个清明节，我选择去抗美援朝烈士陵园祭拜烈士。
 
 <p align="center">
-  <img width="500" src="https://github.com/ziseweilai/ziseweilai.github.io/raw/master/images/posts/2021-04-07-image-Missing/微信图片_20210406213858.jpg"/>
+  <img width="500" src="https://github.com/ziseweilai/ziseweilai.github.io/raw/master/images/posts/2021-04-07-image-Missing/20210406213858.jpg"/>
 </p>
 
 <p align="center">
-  <img width="500" src="https://github.com/ziseweilai/ziseweilai.github.io/raw/master/images/posts/2021-04-07-image-Missing/微信图片_20210406213908.jpg"/>
+  <img width="500" src="https://github.com/ziseweilai/ziseweilai.github.io/raw/master/images/posts/2021-04-07-image-Missing/20210406213908.jpg"/>
 </p>
 
 
 早上，九点多到了抗美援朝烈士陵园，看到陵园门口写着“1950-1953”，是啊，这就是安葬英雄的地方，这是一个伟大的地方，青山有幸埋忠骨。
 
 <p align="center">
-  <img width="500" src="https://github.com/ziseweilai/ziseweilai.github.io/raw/master/images/posts/2021-04-07-image-Missing/微信图片_20210406213913.jpg"/>
+  <img width="500" src="https://github.com/ziseweilai/ziseweilai.github.io/raw/master/images/posts/2021-04-07-image-Missing/20210406213913.jpg"/>
 </p>
 
 <p align="center">
-  <img width="500" src="https://github.com/ziseweilai/ziseweilai.github.io/raw/master/images/posts/2021-04-07-image-Missing/微信图片_20210406213918.jpg"/>
+  <img width="500" src="https://github.com/ziseweilai/ziseweilai.github.io/raw/master/images/posts/2021-04-07-image-Missing/20210406213918.jpg"/>
 </p>
 
 看到有些坟前有墓碑，有些没有，但更多的是没有的，他们都有一个愿望，就是能实现国家独立，民族富强，人民幸福。无论是否留下姓名，他们和我们一样，都有一个名字：中国人。自己看望了所有的坟茔，将散落的花和倒下的国旗捡起、放好，这也是我能为烈士们唯一能做的事情了。在他们面前，感觉自己十分的渺小、微不足道。现在很多人，都是“口中是主义，心中是生意”，但这些烈士的口中还是心中都是主义。经常听到大家站在理论的角度谈论邱少云、黄继光烈士，诋毁他们的事迹从人类的本能角度出发，是不可能的。其实，世界上有太多不可能的事情了。好多事情并不需要解释，因为现有的理论还很匮乏。但一个人心中有理想、有梦想、有真正的主义时，会做到超越人类、乃至动物、生物本能的事情。这也是现在大多数现代人不理解的。
@@ -50,19 +50,19 @@ keywords: 旅游；英烈；陵园
 > 抗美援朝战争打出了国威，打破了美帝国主义不可战胜的神话，表明了中国人民保家卫国的决心，提高了中国的国际地位，迫使美国不敢再打中国的主意，为国内经济建设赢得了相对稳定的国际和平环境。
 
 <p align="center">
-  <img width="500" src="https://github.com/ziseweilai/ziseweilai.github.io/raw/master/images/posts/2021-04-07-image-Missing/微信图片_20210406213922.jpg"/>
+  <img width="500" src="https://github.com/ziseweilai/ziseweilai.github.io/raw/master/images/posts/2021-04-07-image-Missing/20210406213922.jpg"/>
 </p>
 
 <p align="center">
-  <img width="500" src="https://github.com/ziseweilai/ziseweilai.github.io/raw/master/images/posts/2021-04-07-image-Missing/微信图片_20210406213926.jpg"/>
+  <img width="500" src="https://github.com/ziseweilai/ziseweilai.github.io/raw/master/images/posts/2021-04-07-image-Missing/20210406213926.jpg"/>
 </p>
 
 <p align="center">
-  <img width="500" src="https://github.com/ziseweilai/ziseweilai.github.io/raw/master/images/posts/2021-04-07-image-Missing/微信图片_20210406213930.jpg"/>
+  <img width="500" src="https://github.com/ziseweilai/ziseweilai.github.io/raw/master/images/posts/2021-04-07-image-Missing/20210406213930.jpg"/>
 </p>
 
 ==抗美援朝烈士永垂不朽！==
 
 <p align="center">
-  <img width="500" src="https://github.com/ziseweilai/ziseweilai.github.io/raw/master/images/posts/2021-04-07-image-Missing/微信图片_20210406213935.jpg"/>
+  <img width="500" src="https://github.com/ziseweilai/ziseweilai.github.io/raw/master/images/posts/2021-04-07-image-Missing/20210406213935.jpg"/>
 </p>
